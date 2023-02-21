@@ -8,7 +8,7 @@ In my free time, I enjoy experimenting with new technologies and building person
 
 I am excited to start my career as a front-end developer and look forward to the opportunity to work with a company that values innovation and creativity.
 
-Please feel free to reach out to me if you have any questions or if you would like to discuss a potential opportunity. Find out more about me & feel free to connect with me here:
+Please feel free to reach out to me if you have any questions or if you would like to discuss a potential opportunity. Find out more about me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
 [![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
