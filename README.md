@@ -24,4 +24,4 @@ Please feel free to reach out to me if you have any questions or if you would li
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihadoulad&" alt="jihadoulad" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jihadoulad&repo=github-readme-stats)](https://github.com/jihadoulad/github-readme-stats)
+
