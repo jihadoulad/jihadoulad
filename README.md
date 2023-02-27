@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
-I'm a Self-taught Front-End Developer with a passion for crafting visually appealing and user-friendly websites. Proficient in HTML, CSS, JavaScript and ReactJS. Strong problem-solving skills and attention to detail, consistently delivering high-quality work. Possessing a creative mind, constantly exploring new technologies and techniques to enhance my skillset and stay ahead of the curve. Eager to apply my knowledge and contribute to the success of dynamic organizations.
+I'm a Self-taught Front-End Developer with a passion for crafting visually appealing and user-friendly websites. Proficient in HTML, CSS, JavaScript and ReactJS. Strong problem-solving skills and attention to detail, consistently delivering high-quality work. Possessing a creative mind, constantly exploring new technologies and techniques to enhance my skill set and stay ahead of the curve. Eager to apply my knowledge and contribute to the success of dynamic organizations.
 
 I am a quick learner and always eager to expand my knowledge and skills. I am excited to begin working with a team of experienced developers to gain hands-on experience and contribute to the creation of innovative and high-quality websites.
 
@@ -17,6 +17,7 @@ Please feel free to reach out to me if you have any questions or if you would li
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/jihad-oulad-9791b4185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihad-oulad-9791b4185/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
