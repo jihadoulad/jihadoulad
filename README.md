@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jihad Oulad</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jihadoulad&label=Profile%20views&color=0e75b6&style=flat" alt="jihadoulad" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
-
 
 I'm a Self-taught Front-End Developer with a passion for crafting visually appealing and user-friendly websites. Proficient in HTML, CSS, JavaScript and ReactJS. Strong problem-solving skills and attention to detail, consistently delivering high-quality work. Possessing a creative mind, constantly exploring new technologies and techniques to enhance my skill set and stay ahead of the curve. Eager to apply my knowledge and contribute to the success of dynamic organizations.
 
